@@ -25,3 +25,5 @@ https://github.com/Navid-Derakhshandeh
 ![Screenshot (454)](https://github.com/Navid-Derakhshandeh/scheduling-algorithms/assets/111235264/545da9b1-03c0-4dd8-b9d6-935e9fa98337)
 
 ![Screenshot (455)](https://github.com/Navid-Derakhshandeh/scheduling-algorithms/assets/111235264/16b22939-0332-4b46-9bce-d0800c9cae50)
+
+I am developing Program for computing Scheduling algorithms I Uploaded My Program Codes In this Repository. FCFS and SJF algorithms are completed But SRT, Round Robin and MLFQ are still not completed.
